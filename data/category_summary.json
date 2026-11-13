@@ -1,0 +1,26 @@
+{
+ "total_unique_exercises": 5405,
+ "category_entry_counts": {
+  "全身": 625,
+  "手臂": 463,
+  "肩部": 407,
+  "背部": 730,
+  "腿部": 1712,
+  "腹部": 1039,
+  "臀部": 1437,
+  "颈部": 53,
+  "胸部": 460,
+  "腰部": 4
+ },
+ "sum_of_category_entries": 6930,
+ "fields": {
+  "id": "Keep exercise ID (24-char hex)",
+  "name": "Exercise name (Chinese)",
+  "url": "Source page on calorietech.com",
+  "image": "Thumbnail URL on Keep CDN",
+  "gender": "Demo model gender of the source page (f/m)",
+  "level": "Difficulty stars on source site, 0-5",
+  "categories": "Body-part categories this exercise is listed under"
+ },
+ "source": "https://www.calorietech.com public exercise library pages, collected 2026-11-13"
+}
